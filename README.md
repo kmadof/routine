@@ -9,6 +9,10 @@
 :musical_note: [Patoarchitekci](https://open.spotify.com/show/13wiwR1mmHD3PTBcMt9J9J?si=V8HeU50vQ_y8A-H-eFTcCA)</br>
 :musical_note: [Better software design](https://open.spotify.com/show/0QCDOJNUWnJkaq73FasfkY?si=l9DsYbepTVG02gDVrEc4XA)
 
+## DevOps
+
+:notebook: [SYSOPS/DEVOPS POLSKA](https://www.sysopspolska.pl/)
+
 ## Powershell
 
 :notebook: [duffney.io](https://duffney.io/posts/)
