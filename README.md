@@ -12,6 +12,7 @@
 ## DevOps
 
 :notebook: [SYSOPS/DEVOPS POLSKA](https://www.sysopspolska.pl/)
+:notebook: [Edward Thomas blog - github action](https://www.edwardthomson.com/blog/)
 
 ## Powershell
 
