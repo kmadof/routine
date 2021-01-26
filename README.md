@@ -11,6 +11,7 @@
 
 ## DevOps
 
+:notebook: [GitHub blog](https://github.blog/)
 :notebook: [SYSOPS/DEVOPS POLSKA](https://www.sysopspolska.pl/)</br>
 :notebook: [Edward Thomas blog - github action](https://www.edwardthomson.com/blog/)
 
