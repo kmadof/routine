@@ -11,6 +11,7 @@
 
 ## DevOps
 
+:notebook: [Google Cloud Blog - DevOps SRE](https://cloud.google.com/blog/products/devops-sre)</br>
 :notebook: [DevOps.com](https://devops.com/)</br>
 :notebook: [GitHub blog](https://github.blog/)</br>
 :notebook: [SYSOPS/DEVOPS POLSKA](https://www.sysopspolska.pl/)</br>
