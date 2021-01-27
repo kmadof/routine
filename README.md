@@ -12,7 +12,8 @@
 ## Azure
 
 :notebook: [sjoukjezaal.com](https://sjoukjezaal.com/) - weekly set or articles about Azure</br>
-:notebook: [Azure App Service Blog](https://azure.github.io/AppService/)
+:notebook: [Azure App Service Blog](https://azure.github.io/AppService/)</br>
+:notebook: [Azure Updates- official](https://azure.microsoft.com/en-us/updates/)</br>
 
 ## DevOps
 
