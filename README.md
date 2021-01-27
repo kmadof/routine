@@ -9,6 +9,10 @@
 :musical_note: [Patoarchitekci](https://open.spotify.com/show/13wiwR1mmHD3PTBcMt9J9J?si=V8HeU50vQ_y8A-H-eFTcCA)</br>
 :musical_note: [Better software design](https://open.spotify.com/show/0QCDOJNUWnJkaq73FasfkY?si=l9DsYbepTVG02gDVrEc4XA)
 
+## Azure
+
+:notebook: [sjoukjezaal.com](https://sjoukjezaal.com/) - weekly set or articles about Azure</br>
+
 ## DevOps
 
 :notebook: [Google Cloud Blog - DevOps SRE](https://cloud.google.com/blog/products/devops-sre)</br>
